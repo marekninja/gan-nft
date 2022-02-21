@@ -1,0 +1,3 @@
+[submodule "apebase"]
+	path = apebase
+	url = https://github.com/skogard/apebase.git
